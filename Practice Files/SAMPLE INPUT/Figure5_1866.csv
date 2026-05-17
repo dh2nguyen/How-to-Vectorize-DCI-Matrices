@@ -1,0 +1,11 @@
+Node,Steps to Base Node,2ndDeg Nodes*2,3rdDeg Nodes*3,4thDeg Nodes*4,Node Score
+A,0,0,0,0,0
+B,1,0,0,0,1
+C,2,2,0,0,4
+D,3,2,0,4,9
+E,3,2,0,4,9
+F,3,2,0,4,9
+G,4,4,0,4,12
+H,4,4,0,4,12
+I,5,6,0,4,15
+J,5,6,0,4,15
